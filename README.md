@@ -20,4 +20,4 @@ Python, SQL, AWS
 
 <a href="mailto:is2332@nyu.edu?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ivan-serdiuk/)
+[![LinkedIn](https://e7.pngegg.com/pngimages/602/665/png-clipart-linkedin-linkedin-thumbnail.png)](https://www.linkedin.com/in/ivan-serdiuk/)
