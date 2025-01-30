@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# README
 I'm Ivan, CIS grad student at NYU 
 Python, SQL, AWS
 
