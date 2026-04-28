@@ -1,25 +1,13 @@
 ## Hi there 👋
 
-<!--
-**IvanSerdiuk/IvanSerdiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm Ivan, CIS grad student at NYU 
+I'm Ivan, CIS grad student at NYU  
 
 Python, SQL, AWS
 
-<a href="mailto:is2332@nyu.edu?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:is2332@nyu.edu">
+  <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 <a href="https://www.linkedin.com/in/ivan-serdiuk/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/512px-LinkedIn_Logo.svg.png" width="120"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
