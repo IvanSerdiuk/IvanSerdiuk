@@ -21,5 +21,5 @@ Python, SQL, AWS
 <a href="mailto:is2332@nyu.edu?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <a href="https://www.linkedin.com/in/ivan-serdiuk/">
-  <img src='[https://www.rawpixel.com/search/linkedin%20icon%20png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/3840px-LinkedIn_Logo.svg.png)'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/512px-LinkedIn_Logo.svg.png" width="120"/>
 </a>
